@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationApi.Infrastru
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationApi.Presentation", "AuthenticationApi.Presentation\AuthenticationApi.Presentation.csproj", "{FA7C220F-0782-4307-83C8-8DE209A0ECC1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinTracker.SharedLibrary", "..\FinTracker.SharedLibrarySolution\FinTracker.SharedLibrary\FinTracker.SharedLibrary.csproj", "{84FB4FF7-5536-4200-99F9-C92E78D20C3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinTracker.SharedLibrary", "..\..\FinTracker.SharedLibrarySolution\FinTracker.SharedLibrary\FinTracker.SharedLibrary.csproj", "{84FB4FF7-5536-4200-99F9-C92E78D20C3A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

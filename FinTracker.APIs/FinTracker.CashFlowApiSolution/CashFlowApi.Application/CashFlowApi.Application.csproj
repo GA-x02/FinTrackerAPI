@@ -8,7 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\FinTracker.SharedLibrarySolution\FinTracker.SharedLibrary\FinTracker.SharedLibrary.csproj" />
-    <ProjectReference Include="..\AuthenticationApi.Domain\AuthenticationApi.Domain.csproj" />
+    <ProjectReference Include="..\CashFlowApi.Domain\CashFlowApi.Domain.csproj" />
   </ItemGroup>
 
 </Project>
